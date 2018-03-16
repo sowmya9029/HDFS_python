@@ -1,0 +1,6 @@
+rpyc
+jsonpickle
+threading
+requests
+ConfigParser
+boto3 --upgrade --ignore-installed six
